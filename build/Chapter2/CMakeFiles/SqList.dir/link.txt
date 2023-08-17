@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/SqList.dir/SqList.cc.o -o ../../Chapter2/bin/SqList 

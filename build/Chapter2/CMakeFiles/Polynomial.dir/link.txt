@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/Polynomial.dir/Polynomial.cc.o -o ../../Chapter2/bin/Polynomial 

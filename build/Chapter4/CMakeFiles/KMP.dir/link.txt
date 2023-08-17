@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/KMP.dir/KMP.cc.o -o ../../Chapter4/bin/KMP 

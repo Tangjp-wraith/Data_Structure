@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/Merge.dir/Merge.cc.o -o ../../Chapter2/bin/Merge 

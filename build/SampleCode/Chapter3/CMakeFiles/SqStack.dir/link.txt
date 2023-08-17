@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/SqStack.dir/SqStack.cc.o -o ../../../SampleCode/Chapter3/bin/SqStack 

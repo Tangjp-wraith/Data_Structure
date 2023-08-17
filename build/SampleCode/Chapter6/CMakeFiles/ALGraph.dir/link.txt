@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/ALGraph.dir/ALGraph.cc.o -o ../../../SampleCode/Chapter6/bin/ALGraph 
