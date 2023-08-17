@@ -11,18 +11,25 @@ typedef struct LNode {
 void Merge(LinkList &a, LinkList &b) {
   LinkList pa = a->next, pb = b->next;
   LinkList pc = a;
-  while (pa && pb) {
-    if (pa->data <= pb->data) {
-      pc->next = pa;
-      pc = pa;
+  pc->next = NULL;
+  LinkList q;
+  while (pa || pb) {
+    if (!pa) {
+      q = pb;
+      pb = pb->next;
+    } else if (!pb) {
+      q = pa;
+      pa = pa->next;
+    } else if (pa->data <= pb->data) {
+      q = pa;
       pa = pa->next;
     } else {
-      pc->next = pb;
-      pc = pb;
+      q = pb;
       pb = pb->next;
     }
+    q->next = pc->next;
+    pc->next = q;
   }
-  pc->next = pa ? pa : pb;
   delete b;
 }
 
