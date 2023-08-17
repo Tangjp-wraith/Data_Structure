@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/DuLinkList.dir/DuLinkList.cc.o -o ../../../SampleCode/Chapter2/bin/DuLinkList 

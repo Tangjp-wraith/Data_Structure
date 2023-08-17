@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/BiTree.dir/BiTree.cc.o -o ../../../SampleCode/Chapter5/bin/BiTree 

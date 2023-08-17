@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/HuffmanTree.dir/HuffmanTree.cc.o -o ../../Chapter5/bin/HuffmanTree 

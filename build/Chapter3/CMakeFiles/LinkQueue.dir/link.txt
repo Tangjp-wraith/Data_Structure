@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/LinkQueue.dir/LinkQueue.cc.o -o ../../Chapter3/bin/LinkQueue 

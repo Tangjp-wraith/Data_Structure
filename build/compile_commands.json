@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter2",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Merge.dir/Merge.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter2/Merge.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter2/Merge.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter2",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SqList.dir/SqList.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter2/SqList.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter2/SqList.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter2",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/LinkList.dir/LinkList.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter2/LinkList.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter2/LinkList.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter2",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/DuLinkList.dir/DuLinkList.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter2/DuLinkList.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter2/DuLinkList.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter2",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Polynomial.dir/Polynomial.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter2/Polynomial.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter2/Polynomial.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter3",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SqStack.dir/SqStack.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter3/SqStack.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter3/SqStack.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter3",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/LinkStack.dir/LinkStack.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter3/LinkStack.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter3/LinkStack.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter3",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Recursion.dir/Recursion.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter3/Recursion.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter3/Recursion.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter3",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SqQueue.dir/SqQueue.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter3/SqQueue.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter3/SqQueue.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter3",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/LinkQueue.dir/LinkQueue.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter3/LinkQueue.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter3/LinkQueue.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter4",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/KMP.dir/KMP.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter4/KMP.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter4/KMP.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter5",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/BiTree.dir/BiTree.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter5/BiTree.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter5/BiTree.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter5",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/BiThrTree.dir/BiThrTree.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter5/BiThrTree.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter5/BiThrTree.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter5",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/HuffmanTree.dir/HuffmanTree.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter5/HuffmanTree.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter5/HuffmanTree.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter6",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/AMGraph.dir/AMGraph.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter6/AMGraph.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter6/AMGraph.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter6",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ALGraph.dir/ALGraph.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter6/ALGraph.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter6/ALGraph.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter7",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SSTable.dir/SSTable.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter7/SSTable.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter7/SSTable.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter7",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/HashTable.dir/HashTable.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter7/HashTable.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter7/HashTable.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter7",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/BTree.dir/BTree.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter7/BTree.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter7/BTree.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/SampleCode/Chapter8",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Sort.dir/Sort.cc.o -c /home/tang/C_Cpp/Data_Structure/SampleCode/Chapter8/Sort.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/SampleCode/Chapter8/Sort.cc"
+},
+{
+  "directory": "/home/tang/C_Cpp/Data_Structure/build/Homework/Chapter2",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/hw1.dir/hw1.cc.o -c /home/tang/C_Cpp/Data_Structure/Homework/Chapter2/hw1.cc",
+  "file": "/home/tang/C_Cpp/Data_Structure/Homework/Chapter2/hw1.cc"
+}
+]

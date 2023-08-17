@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/SSTable.dir/SSTable.cc.o -o ../../../SampleCode/Chapter7/bin/SSTable 

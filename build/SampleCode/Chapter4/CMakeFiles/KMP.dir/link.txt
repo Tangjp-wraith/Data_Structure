@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/KMP.dir/KMP.cc.o -o ../../../SampleCode/Chapter4/bin/KMP 

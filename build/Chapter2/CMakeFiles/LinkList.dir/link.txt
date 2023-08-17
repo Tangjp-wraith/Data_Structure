@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/LinkList.dir/LinkList.cc.o -o ../../Chapter2/bin/LinkList 

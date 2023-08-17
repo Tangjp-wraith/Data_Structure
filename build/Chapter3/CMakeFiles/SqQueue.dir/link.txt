@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/SqQueue.dir/SqQueue.cc.o -o ../../Chapter3/bin/SqQueue 

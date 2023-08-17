@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/LinkStack.dir/LinkStack.cc.o -o ../../../SampleCode/Chapter3/bin/LinkStack 

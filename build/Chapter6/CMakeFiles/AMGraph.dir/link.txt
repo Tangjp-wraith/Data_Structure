@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/AMGraph.dir/AMGraph.cc.o -o ../../Chapter6/bin/AMGraph 

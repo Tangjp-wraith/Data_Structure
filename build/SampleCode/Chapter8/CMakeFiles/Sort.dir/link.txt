@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Sort.dir/Sort.cc.o -o ../../../SampleCode/Chapter8/bin/Sort 
