@@ -5,4 +5,5 @@ SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin/)
 add_executable(hw3-1 hw1.cc)
 add_executable(hw3-2 hw2.cc)
 add_executable(hw3-3 hw3.cc)
-
+add_executable(hw3-4 hw4.cc)
+add_executable(hw3-5 hw5.cc)

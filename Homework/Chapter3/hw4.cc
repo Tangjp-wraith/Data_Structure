@@ -2,8 +2,7 @@
 
 using namespace std;
 
-#define MAXSIZE 10
-
+#define MAXSIZE 100
 typedef struct {
   int *bot, *top;
   int maxsize;
@@ -58,24 +57,43 @@ int top(Stack &s) {
   return *(s.top - 1);
 }
 
-void Intput() {
-  Stack s;
-  int n;
-  init(s);
-  cout << "input a number means the array's size: ";
-  cin >> n;
-  cout << endl;
-  int a;
-  for (int i = 0; i < n; ++i) {
-    cin >> a;
-    if (a == -1) {
-      cout << "pop the top: " << top(s) << endl;
-      pop(s);
-    } else {
-      cout << "push into the stack" << endl;
-      push(s, a);
-    }
+bool In(char c) {
+  if (c == '+' || c == '-' || c == '*' || c == '/') {
+    return true;
   }
+  return false;
 }
 
-int main() { Intput(); }
+int Op(int a, char op, int b) {
+  switch (op) {
+    case '+':
+      return a + b;
+    case '-':
+      return a - b;
+    case '*':
+      return a * b;
+    case '/':
+      return b / a;
+  }
+  return -1;
+}
+
+int main() {
+  char str[10];
+  cin >> str;
+  Stack s;
+  init(s);
+  while (str[0] != '$') {
+    if (!In(str[0])) {
+      push(s, atoi(str));
+    } else {
+      int a, b;
+      a = top(s), pop(s);
+      b = top(s), pop(s);
+      push(s, Op(a, str[0], b));
+    }
+    cin >> str;
+  }
+  cout << top(s)<<endl;
+  return 0;
+}
