@@ -12,7 +12,7 @@ typedef struct node {
   struct node *next;
 } node, *list;
 
-int getmax(list l) {
+int getmax(list &l) {
   if (!l->next) {
     return l->data;
   } else {
@@ -21,19 +21,21 @@ int getmax(list l) {
   }
 }
 
-int getlen(list l) {
+int getlen(list &l) {
   if (!l->next) {
     return 1;
   }
   return getlen(l->next) + 1;
 }
 
-double getavg(list l, int n) {
+double getavg(list &l, int &n) {
   if (!l->next) {
+    n = 1;
     return l->data;
   } else {
-    double avg = getavg(l->next, n - 1);
-    return (avg * (n - 1) + l->data) / n;
+    double sum = getavg(l->next, n) * n;
+    n++;
+    return (sum + l->data) / n;
   }
 }
 
@@ -54,8 +56,8 @@ int main() {
   cout << getmax(l) << endl;
 
   cout << getlen(l) << endl;
-
-  cout << getavg(l, 10) << endl;
+  int n;
+  cout << getavg(l, n) << endl;
 
   cout << ans / 10 << endl;
 

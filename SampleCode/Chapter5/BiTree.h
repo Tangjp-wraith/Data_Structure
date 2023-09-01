@@ -15,7 +15,7 @@ void InOrderTraverse1(BiTree T);
 void CreateBiTree(BiTree &T);
 
 //算法5.4 复制二叉树
-void Copy(BiTree T,BiTree &NewT);
+void Copy(BiTree T, BiTree &NewT);
 
 //算法5.5 计算二叉树的深度
 int Depth(BiTree T);
