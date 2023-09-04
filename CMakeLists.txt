@@ -14,4 +14,6 @@ add_subdirectory(SampleCode/Chapter8)
 add_subdirectory(Homework/Chapter2)
 add_subdirectory(Homework/Chapter3)
 add_subdirectory(Homework/Chapter5)
+add_subdirectory(Homework/Chapter6)
+
 
